@@ -23,8 +23,8 @@ For any details or queries please contact: clinicalbrainlab@gmail.com
 
 
 ### References (important to the work)
-1.Zhou, G., Cichocki, A., Zhang, Y. & Mandic, D. P. Group Component Analysis for Multiblock Data: Common and Individual Feature Extraction. IEEE Transactions on Neural Networks and Learning Systems 27, 2426–2439 (2016).
-2.Kashyap, R. et al. Individual-specific fMRI-Subspaces improve functional connectivity prediction of behavior. NeuroImage 189, 804–812 (2019).
-3.Friedman, J., Hastie, T. & Tibshirani, R. Regularization paths for generalized linear models via coordinate descent. Journal of statistical software 33, 1 (2010).
-4.Zou, H. & Hastie, T. Regularization and variable selection via the elastic net. Journal of the royal statistical society: series B (statistical methodology) 67, 301–320 (2005).
-5. Betzel, R. F. et al. The community structure of functional brain networks exhibits scale-specific patterns of inter-and intra-subject variability. Neuroimage 202, 115990 (2019).
+#1. Zhou, G., Cichocki, A., Zhang, Y. & Mandic, D. P. Group Component Analysis for Multiblock Data: Common and Individual Feature Extraction. IEEE Transactions on Neural Networks and Learning Systems 27, 2426–2439 (2016).
+#2. Kashyap, R. et al. Individual-specific fMRI-Subspaces improve functional connectivity prediction of behavior. NeuroImage 189, 804–812 (2019).
+#3. Friedman, J., Hastie, T. & Tibshirani, R. Regularization paths for generalized linear models via coordinate descent. Journal of statistical software 33, 1 (2010).
+#4. Zou, H. & Hastie, T. Regularization and variable selection via the elastic net. Journal of the royal statistical society: series B (statistical methodology) 67, 301–320 (2005).
+#5. Betzel, R. F. et al. The community structure of functional brain networks exhibits scale-specific patterns of inter-and intra-subject variability. Neuroimage 202, 115990 (2019).
