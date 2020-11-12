@@ -5,7 +5,7 @@ The study compares the brain organisation of healthy controls and patients with 
 
 To this aim, the study utilises the resting state fMRI's (rsfMRI) of all subjects and removes the common subspace shared by the subjects in each group to obtain the individual-fMRI of a subject. The method uses common and orthogonal basis extraction technique that was developed by Zhou et al, (2016). The method has been shownto benefit rsfMRI studies (Kashyap et al, 2019).  
 
-The present work also found Individual-fMRI's to be better than conventional-fMRI when functional connections are compared between healthy controls and patients with OCD. The code helps to obtain the individual fMRI of a subject and project the common subspace on the brain.
+The present work also found Individual-fMRI's to be better than conventional-fMRI when functional connections are compared between healthy controls and patients with OCD. The code helps to obtain the individual fMRI of a subject and project the common subspace on the brain (please download the code https://github.com/alexandershaw4/SourceMesh).
 
 Prediction based approches were used to justify that the functional architecture of the brain of patients with OCD is different from controls. Elastic-net (Zou and Hastie, 3005; Friedman et al, 2010), in leave-one-out cross validation was used. The code can be downloaded from https://web.stanford.edu/~hastie/glmnet_matlab/. Alternatively, if you are using MATLAB 2020 version (and above) then elastic-net algorithm can be inbuilt.
 
