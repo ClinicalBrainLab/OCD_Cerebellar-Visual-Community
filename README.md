@@ -19,6 +19,9 @@ We used the inter-individual variation in the number of nodes in a community to 
 ## Please enjoy our work
 Kashyap R, Eng GK, Bhattacharjee S, Gupta B, Ho R, Ho SH., Zhang, M.,Mahendran, R., Sim, K., Chen SH.A Individual-based Approach reveals Fronto-Striato-Limbic dissociation and Cerebellar-Visual association in Obsessive-Compulsive Disorder. Scientific Reports, (2020).
 
+If you are using the code, please also cite
+Zhou, G., Cichocki, A., Zhang, Y. & Mandic, D. P. Group Component Analysis for Multiblock Data: Common and Individual Feature Extraction. IEEE Transactions on Neural Networks and Learning Systems 27, 2426–2439 (2016).
+
 For any details or queries please contact: clinicalbrainlab@gmail.com 
 
 
