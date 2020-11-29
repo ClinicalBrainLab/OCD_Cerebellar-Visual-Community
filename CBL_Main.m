@@ -6,8 +6,8 @@
 %(2)Individual connectome based on Pearson's correlation
 %
 % If you are using this code please cite
-%(1)Kashyap, R. et al, Individual-specific fMRI-Subspaces improve functional connectivity prediction of behavior. NeuroImage 189, 804–812 (2019).
-%(2)Zhou, G., Cichocki, A., Zhang, Y. & Mandic, D. P. Group Component Analysis for Multiblock Data: Common and Individual Feature Extraction. IEEE Transactions on Neural Networks and Learning Systems 27, 2426–2439 (2016).
+%(1)Kashyap, R. et al, Individual-specific fMRI-Subspaces improve functional connectivity prediction of behavior. NeuroImage 189, 804â€“812 (2019).
+%(2)Zhou, G., Cichocki, A., Zhang, Y. & Mandic, D. P. Group Component Analysis for Multiblock Data: Common and Individual Feature Extraction. IEEE Transactions on Neural Networks and Learning Systems 27, 2426â€“2439 (2016).
 
 
 clear all;
@@ -59,12 +59,3 @@ save (fullfile(Output_dir,[Output_Name3 '.mat']),'COBE_Correlation_Individual_Fu
 
 % Output_Name4= 'Orig_Corr_Data';
 % save (fullfile(Output_dir,[Output_Name4 '.mat']),'Orig_FunctionalConnectome','-v7.3' );
-% Load AAL template
-%% For quick visualisation please download the code from https://github.com/alexandershaw4/SourceMesh
-% Alternatively you can use freesurfer or spm as well
-load AAL116
-atemplate('mesh','def3','overlay',overlay,'method',{'aal116','spheres'}); % if you have downloaded the code
-
-% HD Definition
-atemplate('mesh','def3','overlay',overlay,...
-    'sourcemodel',{v vi}, 'method',{'user','sphere'},'optimise',1,'labels');
